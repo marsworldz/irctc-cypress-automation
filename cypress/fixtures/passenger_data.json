@@ -10,17 +10,17 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Abdullah",
+      "AGE": 25,
       "GENDER": "Male",
-      "SEAT": "No Preference",
+      "SEAT": "Side Upper",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
+      "NAME": "Mohammad Nasim Anwer",
+      "AGE": 55,
+      "GENDER": "Male",
+      "SEAT": "Side Lower",
       "FOOD": "No Food"
     }
   ],
